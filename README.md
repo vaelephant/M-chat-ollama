@@ -168,3 +168,4 @@ As ChatOllama is still under active development, features, interfaces and databa
     - `pnpm install`
 2. Prisma migrate
     - `pnpm prisma-migrate`
+# M-chat-ollama
